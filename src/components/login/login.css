@@ -5,7 +5,7 @@
 .login-left{
   flex-grow: 1;
   height: 100vh;
-  background-color: #E9E9E9;
+  
   display: flex;
   justify-content: center;
   align-items: center;
@@ -16,6 +16,7 @@
 }
 
 .login-right{
+  background-color: #b4b7ba;
   height: 100vh;
   flex-grow: 1;
 }
